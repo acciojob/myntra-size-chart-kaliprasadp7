@@ -1,2 +1,15 @@
-
-/* Your CSS Code here. */
+td, th{
+	padding-right:80px;
+	border: 1px solid black;
+}
+table{
+/* 	border: 1px solid black; */
+}
+th{
+	background-color:#c0504d;
+	color:white;
+}
+.data1{
+	background-color:#da9694;
+	color:white;
+}
